@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sensode.com/template/</loc>
+    <lastmod>2016-08-29</lastmod>
+  </url>
+  <url oeid="773e3ed3-621f-47ae-b09a-ff90f6e53bbf" oelang="DEFAULT">
+    <loc>http://sensode.com/template/index.htm</loc>
+    <lastmod>2016-08-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.com/template/index.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.com/template/index.en.htm" />
+  </url>
+  <url oeid="773e3ed3-621f-47ae-b09a-ff90f6e53bbf" oelang="EN">
+    <loc>http://sensode.com/template/index.en.htm</loc>
+    <lastmod>2016-08-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.com/template/index.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.com/template/index.en.htm" />
+  </url>
+  <url oeid="19ac5b22-4c86-499c-8aaf-78ae28e4f6fb" oelang="DEFAULT">
+    <loc>http://sensode.com/template/actualites.htm</loc>
+    <lastmod>2016-08-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.com/template/actualites.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.com/template/actualites.en.htm" />
+  </url>
+  <url oeid="19ac5b22-4c86-499c-8aaf-78ae28e4f6fb" oelang="EN">
+    <loc>http://sensode.com/template/actualites.en.htm</loc>
+    <lastmod>2016-08-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.com/template/actualites.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.com/template/actualites.en.htm" />
+  </url>
+  <url oeid="a85ddf29-a6f6-4b84-b1ab-5ce1456e88d1" oelang="DEFAULT">
+    <loc>http://sensode.com/template/FAQ.htm</loc>
+    <lastmod>2016-08-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.com/template/FAQ.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.com/template/FAQ.en.htm" />
+  </url>
+  <url oeid="a85ddf29-a6f6-4b84-b1ab-5ce1456e88d1" oelang="EN">
+    <loc>http://sensode.com/template/FAQ.en.htm</loc>
+    <lastmod>2016-08-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.com/template/FAQ.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.com/template/FAQ.en.htm" />
+  </url>
+</urlset>
